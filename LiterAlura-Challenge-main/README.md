@@ -85,7 +85,5 @@ Este proyecto es una aplicación de gestión de libros que utiliza Spring Boot y
 ![librosRegistrados](https://github.com/BogdanRivera/LiterAlura-Challenge/assets/121648408/ca83967c-d022-4967-8b56-290423f19bc3)
 
 
-# Contribución 
-Las contribuciones son bienvenidas. Si tienes duda puedes contactarme directamente a mi correo: bogdanrivera@gmail.com
 
    
